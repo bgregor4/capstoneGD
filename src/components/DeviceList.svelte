@@ -4,5 +4,5 @@
 </script>
 
 {#each devices as dev (dev.id)}
-    <Device item={dev} />
+    <Device device={dev} />
 {/each}

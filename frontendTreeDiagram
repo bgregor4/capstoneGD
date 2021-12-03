@@ -1,0 +1,30 @@
+
+This file is a reference for the Frontend design plans
+
+Lucidchart diagram located at https://lucid.app/lucidchart/64815548-6478-42e2-9da5-53398075fd5a/edit?invitationId=inv_d4f84919-77f1-494a-a43f-84426409b598
+
+#Tree diagram:
+^upward dependency
+/Folders
+-Files
+/rust-rocket-svelte
+    /client
+        /Admin
+            -Admin.svelte
+            -DiskSpace.svelte ^
+            -Journal.svelte ^
+            -Performance.svelte ^
+            -Reboot.svelte ^
+            -Status.svelte ^
+            -Uptime.svelte ^
+        /Devices
+            -DeviceTable.svelte
+            -Devices.svelte
+        /Help 
+            -DiskSpace.svelte
+            -Help.svelte
+            -Status.svelte
+        /Server
+            -Request.svelte
+        -main.js
+        -App.svelte

@@ -1,0 +1,35 @@
+<!-- Project Resources
+Capstone Project Repo - https://github.com/hkreie/rust-rocket-svelte/blob/master/client/App.svelte
+    Frontend
+        Svelte Resources
+            -SvelteKit Documentation
+                https://kit.svelte.dev/docs#additional-resources-examples
+            -Multipage configuration
+                https://github.com/Tom-Siegel/multi-page-svelte
+        Example Code
+            -Blog posting website - Full Application
+                https://github.com/sveltejs/realworld
+            -Full Application
+                https://github.com/sveltejs/sites
+            -Login page
+                https://github.com/sveltejs/realworld/blob/master/src/routes/login/index.svelte
+            -Login Form
+                https://github.com/teimurjan/svelte-login-form
+            -SvelteKit examples
+                https://kit.svelte.dev/docs#additional-resources-examples
+            -Feedback App
+                https://github.com/bradtraversy/svelte-feedback-app
+
+        HTML
+            -common hmtl tags and use cases
+                https://www.w3schools.com/TAGs/
+            -W3 Schools
+                https://www.w3schools.com/html/default.asp
+        CSS
+            -W3 Schools
+                https://www.w3schools.com/csS/default.asp
+            -cheatsheet with style guides
+
+        
+
+	 -->
